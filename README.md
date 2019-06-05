@@ -8,6 +8,6 @@ Objectives: Develop analytical models for development of ideal
 
 
 ## Progress (June 2019)
-1) Islam SMS 2014 paper appendix code 
-2) Modular code by Prof. Huang 
+1) Islam SMS 2014 paper appendix code (Spring 2015)
+2) Modular code by Prof. Huang (Spring 2019)
 
