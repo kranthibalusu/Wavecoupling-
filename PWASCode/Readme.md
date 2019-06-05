@@ -5,6 +5,6 @@ Islam, M.M., Huang, H., 2014. Understanding the effects of adhesive layer on the
 
 Only code that is relevant to this project is kept in this folder 
 
-Folders 
+## Folders 
 1) Longitudinal 
 2) Flexural  
