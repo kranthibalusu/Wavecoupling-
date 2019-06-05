@@ -6,7 +6,7 @@ function [SP]=fPzBondBeta(SP, Omega)
 %   Omega: angular velocity
 % Outputs:
 %   SP: updated SP
-
+%aak is paak
 SP.C3=(SP.RhoS*Omega.^2*SP.IS*SP.hA/SP.GA/SP.hS-SP.ks*SP.GSc*SP.AS*SP.hA/SP.GA/SP.hS)/SP.alphaB;
 
 % constants see derivation P5
